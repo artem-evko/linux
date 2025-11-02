@@ -1,3 +1,4 @@
+#!/bin/bash
 output_file="$1"
 duration="$2"
 
